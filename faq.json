@@ -214,5 +214,77 @@
         "question_en": "Can the photos I took be used for newsletters or blogs?",
         "answer_ja": "はい、ご自由にお使いいただけます。（写真の利用にあたっては、保護者の方からの同意など、施設さまでのルールをご確認ください）",
         "answer_en": "Yes, you can use the photos as you wish. (Please check your facility’s rules regarding the use of photos, such as obtaining consent from guardians.)"
+    },
+    {
+        "category_id": 2,
+        "category_ja": "保護者アプリについて",
+        "category_en": "About the guardian app",
+        "sub_category_id": 5,
+        "sub_category_ja": "登録",
+        "sub_category_en": "Registration",
+        "question_ja": "保護者が配布した登録用紙を紛失した場合はどうしたらいいですか？",
+        "question_en": "What should I do if a guardian loses the registration form that was distributed?",
+        "answer_ja": "施設さまにて登録用紙の再発行を行い、新しいQRコードで登録してください。\n※以前のQRコードは利用できなくなります。",
+        "answer_en": "Please reissue the registration form at the facility and register with the new QR code.<br />*The previous QR code will no longer be usable."
+    },
+    {
+        "category_id": 2,
+        "category_ja": "保護者アプリについて",
+        "category_en": "About the guardian app",
+        "sub_category_id": 5,
+        "sub_category_ja": "登録",
+        "sub_category_en": "Registration",
+        "question_ja": "保護者から「QRコードを読み込むと読み取り済みとエラー表示が出て登録できない」と連絡がありましたが、どうしたらいいですか？",
+        "question_en": "A guardian contacted me saying, \"When I scan the QR code, it shows an error message saying it's already been scanned and I can't register.\" What should I do?",
+        "answer_ja": "すでに保護者アカウントのご登録がお済です。お心当たりがない場合は施設さまにて該当園児の再登録と登録用紙の再発行を行い、新規でご登録ください。",
+        "answer_en": "The guardian account has already been registered. If the guardian is unaware of this, please re-register the child at the facility and reissue the registration form, then register again."
+    },
+    {
+        "category_id": 2,
+        "category_ja": "保護者アプリについて",
+        "category_en": "About the guardian app",
+        "sub_category_id": 6,
+        "sub_category_ja": "ログイン",
+        "sub_category_en": "Login",
+        "question_ja": "保護者から「アカウントがロックされてログインできない」と連絡がありましたが、どうしたらいいですか？",
+        "question_en": "A guardian contacted me saying, \"My account is locked, and I can't log in.\" What should I do?",
+        "answer_ja": "誤ったパスワードの入力が複数回連続して行われた場合などにロックがかかります。お手数ですが、イロドキサポート事務局までお問い合わせいただくようご連絡をお願いいたします。\nメール：support@irodoki.com　電話:06-4967-1283　※受付時間：平日9 時～17 時（土日祝・GW ・夏季休暇・年末年始等を除く）",
+        "answer_en": "The account may be locked if an incorrect password is entered several times consecutively. Please ask the guardian to contact Irodoki Support.<br />Email: support@irodoki.com<br />Phone: 06-4967-1283<br />*Reception Hours: Weekdays from 9 AM to 5 PM (Excluding weekends, public holidays, Golden Week, summer vacation, and year-end holidays)."
+    },
+    {
+        "category_id": 2,
+        "category_ja": "保護者アプリについて",
+        "category_en": "About the guardian app",
+        "sub_category_id": 7,
+        "sub_category_ja": "配信",
+        "sub_category_en": "Delivered Picture",
+        "question_ja": "配信すると保護者アプリではどのように見えますか？",
+        "question_en": "How does the distribution look on the guardian app?",
+        "answer_ja": "メイン画面では、ご登録されたお子さまが写った写真のみが表示されます。複数のお子さまをご登録されている場合は、お子さまごとに分けて表示されます。クラス全体に配信した写真は、クラスタブに切り替えると表示されます。",
+        "answer_en": "On the main screen, only photos that include the registered child will be displayed. If multiple children are registered, the photos will be separated by child. Photos distributed to the entire class can be viewed by switching to the class tab."
+    },
+    {
+        "category_id": 2,
+        "category_ja": "保護者アプリについて",
+        "category_en": "About the guardian app",
+        "sub_category_id": 7,
+        "sub_category_ja": "配信",
+        "sub_category_en": "Delivered Picture",
+        "question_ja": "配信処理をしてから保護者アプリに届くまでどれくらいの時間がかかりますか？",
+        "question_en": "How long does it take for the distributed photos to reach the guardian app after processing the distribution?",
+        "answer_ja": "施設から保護者へ写真配信を行うと、保護者の方のスマホに即時表示されます。配信のお知らせは、プッシュ通知で自動送信されます。",
+        "answer_en": "Once the facility distributes photos to the guardians, they are immediately displayed on the guardian's smartphone. A push notification is automatically sent to notify them of the new photos."
+    },
+    {
+        "category_id": 2,
+        "category_ja": "保護者アプリについて",
+        "category_en": "About the guardian app",
+        "sub_category_id": 7,
+        "sub_category_ja": "配信",
+        "sub_category_en": "Delivered Picture",
+        "question_ja": "配信した写真を配信取消するとどうなりますか？",
+        "question_en": "What happens when I cancel a photo distribution after it has been sent?",
+        "answer_ja": "施設さま・保護者さまどちらの画面上からも写真が削除されます。",
+        "answer_en": "The photos will be deleted from both the facility's and the guardian's screens."
     }
 ]
