@@ -33,7 +33,7 @@
         "question_ja": "最大何枚までアップロードできますか？",
         "question_en": "What is the maximum number of photos I can upload at once?",
         "answer_ja": "一度にアップロードできる写真は300枚です。※300枚以下であっても、施設さまにてお使いのネット環境により不具合が生じる可能性があります。",
-        "answer_en": "You can upload up to 300 photos at once. *Even if you upload fewer than 300 photos, issues may occur depending on your facility's internet environment.",
+        "answer_en": "You can upload up to 300 photos at once. *Even if you upload fewer than 300 photos, issues may occur depending on your facility's internet environment."
     },
     {
         "category_id": 1,
