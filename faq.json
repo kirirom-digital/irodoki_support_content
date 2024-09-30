@@ -8,14 +8,8 @@
         "sub_category_en": "Uploading Pictures",
         "question_ja": "写真をアップロードできません。",
         "question_en": "Why my pictures aren't uploaded?",
-        "answer_ja": "アップロードが上手くいかない場合、以下が考えられます。\n・インターネットに接続されていない。\n・推奨のブラウザ（Google Chrome/Microsoft Edge）以外を使用している。
-・写真の入ったフォルダごとアップロードしている。
-・画像のサイズが小さ過ぎる、または大き過ぎる。",
-        "answer_en": "If the upload is not successful, the following may be the cause:
-・Not connected to the internet.
-・Using a browser other than the recommended ones (Google Chrome/Microsoft Edge).
-・Trying to upload an entire folder of photos.
-・The image size is either too small or too large."
+        "answer_ja": "アップロードが上手くいかない場合、以下が考えられます。\n・インターネットに接続されていない。\n・推奨のブラウザ（Google Chrome/Microsoft Edge）以外を使用している。\n・写真の入ったフォルダごとアップロードしている。\n・画像のサイズが小さ過ぎる、または大き過ぎる。",
+        "answer_en": "If the upload is not successful, the following may be the cause:\n・Not connected to the internet.\n・Using a browser other than the recommended ones (Google Chrome/Microsoft Edge).\n・Trying to upload an entire folder of photos.\n・The image size is either too small or too large."
     },
     {
         "category_id": 1,
@@ -231,8 +225,7 @@
         "question_ja": "保護者が配布した登録用紙を紛失した場合はどうしたらいいですか？",
         "question_en": "What should I do if a guardian loses the registration form that was distributed?",
         "answer_ja": "施設さまにて登録用紙の再発行を行い、新しいQRコードで登録してください。\n※以前のQRコードは利用できなくなります。",
-        "answer_en": "Please reissue the registration form at the facility and register with the new QR code.
-*The previous QR code will no longer be usable."
+        "answer_en": "Please reissue the registration form at the facility and register with the new QR code.\n*The previous QR code will no longer be usable."
     },
     {
         "category_id": 2,
@@ -256,10 +249,7 @@
         "question_ja": "保護者から「アカウントがロックされてログインできない」と連絡がありましたが、どうしたらいいですか？",
         "question_en": "A guardian contacted me saying, \"My account is locked, and I can't log in.\" What should I do?",
         "answer_ja": "誤ったパスワードの入力が複数回連続して行われた場合などにロックがかかります。お手数ですが、イロドキサポート事務局までお問い合わせいただくようご連絡をお願いいたします。\nメール：support@irodoki.com　電話:06-4967-1283　※受付時間：平日9 時～17 時（土日祝・GW ・夏季休暇・年末年始等を除く）",
-        "answer_en": "The account may be locked if an incorrect password is entered several times consecutively. Please ask the guardian to contact Irodoki Support.
-Email: support@irodoki.com
-Phone: 06-4967-1283
-*Reception Hours: Weekdays from 9 AM to 5 PM (Excluding weekends, public holidays, Golden Week, summer vacation, and year-end holidays)."
+        "answer_en": "The account may be locked if an incorrect password is entered several times consecutively. Please ask the guardian to contact Irodoki Support.\nEmail: support@irodoki.com\nPhone: 06-4967-1283\n*Reception Hours: Weekdays from 9 AM to 5 PM (Excluding weekends, public holidays, Golden Week, summer vacation, and year-end holidays)."
     },
     {
         "category_id": 2,
@@ -319,8 +309,7 @@ Phone: 06-4967-1283
         "question_ja": "園児名簿へCSV取り込みをするとエラーになってしまいます。",
         "question_en": "I am getting an error when importing a CSV into the student roster.",
         "answer_ja": "入力内容に問題がないかご確認ください。未入力の項目や読み取りできない文字があるとエラーの原因になります。\n※環境依存文字、特殊文字は取り込みができません。該当の園児を省いていただき、再度取り込みをお試しください。",
-        "answer_en": "Please check if there are any issues with the input content. Errors may occur if there are unentered fields or unreadable characters. 
-*Environment-dependent characters and special characters cannot be imported. Please exclude the relevant child and try the import again."
+        "answer_en": "Please check if there are any issues with the input content. Errors may occur if there are unentered fields or unreadable characters. \n*Environment-dependent characters and special characters cannot be imported. Please exclude the relevant child and try the import again."
     },
     {
         "category_id": 3,
@@ -380,9 +369,6 @@ Phone: 06-4967-1283
         "question_ja": "施設情報は変更できますか？",
         "question_en": "Can I change the facility information?",
         "answer_ja": "はい、施設画面の施設情報から登録メールアドレスと担当者名のみ変更でききます。その他の項目に変更があった場合は、お手数ですがイロドキサポート事務局までご連絡をお願いいたします。\nメール：support@irodoki.com　電話:06-4967-1283　※受付時間：平日9 時～17 時（土日祝・GW ・夏季休暇・年末年始等を除く）",
-        "answer_en": "Yes, you can change the registered email address and the contact person's name from the facility screen under Facility Information. For other changes, please contact Irodoki Support.
-Email: support@irodoki.com
-Phone: 06-4967-1283
-*Reception Hours: Weekdays from 9 AM to 5 PM (Excluding weekends, public holidays, Golden Week, summer vacation, and year-end holidays)."
+        "answer_en": "Yes, you can change the registered email address and the contact person's name from the facility screen under Facility Information. For other changes, please contact Irodoki Support.\nEmail: support@irodoki.com\nPhone: 06-4967-1283\n*Reception Hours: Weekdays from 9 AM to 5 PM (Excluding weekends, public holidays, Golden Week, summer vacation, and year-end holidays)."
     }
 ]
