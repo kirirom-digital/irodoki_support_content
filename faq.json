@@ -1,0 +1,14 @@
+[
+  {
+    "category_id": "1",
+    "category_ja": "使い方について",
+    "category_en": "About usage",
+    "sub_category_id": "1",
+    "sub_category_ja": "アップロード",
+    "sub_category_en": "Uploading Pictures",
+    "question_ja": "写真をアップロードできません。",
+    "question_en": "Why my pictures aren't uploaded?",
+    "answer_ja": "アップロードが上手くいかない場合、以下が考えられます。<br />・インターネットに接続されていない。<br />・推奨のブラウザ（Google Chrome/Microsoft Edge）以外を使用している。<br />・写真の入ったフォルダごとアップロードしている。<br />・画像のサイズが小さ過ぎる、または大き過ぎる。",
+    "answer_en": "If the upload is not successful, the following may be the cause:<br />・Not connected to the internet.<br />・Using a browser other than the recommended ones (Google Chrome/Microsoft Edge).<br />・Trying to upload an entire folder of photos.<br />・The image size is either too small or too large."
+  }
+]
