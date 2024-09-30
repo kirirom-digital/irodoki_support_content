@@ -224,7 +224,7 @@
         "sub_category_en": "Registration",
         "question_ja": "保護者が配布した登録用紙を紛失した場合はどうしたらいいですか？",
         "question_en": "What should I do if a guardian loses the registration form that was distributed?",
-        "answer_ja": "施設さまにて登録用紙の再発行を行い、新しいQRコードで登録してください。\n※以前のQRコードは利用できなくなります。",
+        "answer_ja": "施設さまにて登録用紙の再発行を行い、新しいQRコードで登録してください。<br />※以前のQRコードは利用できなくなります。",
         "answer_en": "Please reissue the registration form at the facility and register with the new QR code.<br />*The previous QR code will no longer be usable."
     },
     {
@@ -248,7 +248,7 @@
         "sub_category_en": "Login",
         "question_ja": "保護者から「アカウントがロックされてログインできない」と連絡がありましたが、どうしたらいいですか？",
         "question_en": "A guardian contacted me saying, \"My account is locked, and I can't log in.\" What should I do?",
-        "answer_ja": "誤ったパスワードの入力が複数回連続して行われた場合などにロックがかかります。お手数ですが、イロドキサポート事務局までお問い合わせいただくようご連絡をお願いいたします。\nメール：support@irodoki.com　電話:06-4967-1283　※受付時間：平日9 時～17 時（土日祝・GW ・夏季休暇・年末年始等を除く）",
+        "answer_ja": "誤ったパスワードの入力が複数回連続して行われた場合などにロックがかかります。お手数ですが、イロドキサポート事務局までお問い合わせいただくようご連絡をお願いいたします。<br />メール：support@irodoki.com　<br />電話:06-4967-1283　<br />※受付時間：平日9 時～17 時（土日祝・GW ・夏季休暇・年末年始等を除く）",
         "answer_en": "The account may be locked if an incorrect password is entered several times consecutively. Please ask the guardian to contact Irodoki Support.<br />Email: support@irodoki.com<br />Phone: 06-4967-1283<br />*Reception Hours: Weekdays from 9 AM to 5 PM (Excluding weekends, public holidays, Golden Week, summer vacation, and year-end holidays)."
     },
     {
