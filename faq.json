@@ -1,6 +1,6 @@
 [
     {
-        "category_id": "1",
+        "category_id": 1,
         "category_ja": "使い方について",
         "category_en": "About usage",
         "sub_category_id": "1",
